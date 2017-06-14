@@ -12,6 +12,7 @@ Python 3.5+
 [josh:~/Documents/code/shit/shit] master* 1 ± SHIT STATUS
 On branch master
 Your branch is up-to-date with 'origin/master'.
+```
 
 
 ## TODO:
